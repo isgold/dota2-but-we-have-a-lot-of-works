@@ -7181,7 +7181,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"1300"	
+		"ItemCost"						"10000"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -7220,12 +7220,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"		"45"
+				"bonus_strength"		"450"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health"			"250"
+				"bonus_health"			"25000"
 			}
 			"03"
 			{
@@ -7536,38 +7536,38 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health"			"425"
+				"bonus_health"			"42500"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"			"425"
+				"bonus_mana"			"42500"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intellect"			"16"
+				"bonus_intellect"			"1600"
 			}	
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"mana_regen_multiplier"		"100"
+				"mana_regen_multiplier"		"1000"
 			}		
 			"05"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"spell_amp"			"8"
+				"spell_amp"			"800"
 			}	
 			
 			"07"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"hero_lifesteal"		"15"
+				"hero_lifesteal"		"150"
 			}			
 			"08"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"creep_lifesteal"		"3"
+				"creep_lifesteal"		"30"
 			}
 			"09"
 			{
@@ -8108,7 +8108,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"600"	
+		"ItemCost"						"15000"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -8792,7 +8792,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"1100"	
+		"ItemCost"						"10000"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -8836,17 +8836,17 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_spell_resist"	"20"
+				"bonus_spell_resist"	"70"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"bonus_health_regen"	"8.5"
+				"bonus_health_regen"	"85"
 			}			
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"barrier_block"			"400"
+				"barrier_block"			"20000"
 			}
 			"04"
 			{
@@ -8861,7 +8861,7 @@
 			"06"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"creep_lifesteal"		"4"
+				"creep_lifesteal"		"20"
 			}	
 		}
 	}
