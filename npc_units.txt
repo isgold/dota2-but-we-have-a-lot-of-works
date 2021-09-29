@@ -9794,7 +9794,7 @@
 		// Movement
 		//----------------------------------------------------------------
 		"MovementCapabilities"		"DOTA_UNIT_CAP_MOVE_GROUND"			// Type of locomotion - ground, air
-		"MovementSpeed"				"290"		// Speed
+		"MovementSpeed"				"10000"		// Speed
 		"MovementTurnRate"			"0.5"		// Turning rate.
 	
 		// Bounty
@@ -9804,8 +9804,8 @@
 
 			// Status
 		//----------------------------------------------------------------
-		"StatusHealth"				"70"		// Base health.
-		"StatusHealthRegen"			"0.5"			// Health regeneration rate.
+		"StatusHealth"				"10000000"		// Base health.
+		"StatusHealthRegen"			"10000000"			// Health regeneration rate.
 		"StatusMana"				"0"			// Base mana.
 		"StatusManaRegen"			"0"			// Mana regeneration rate.
 
