@@ -40989,7 +40989,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"value"				"8"
+				"value"				"4"
 				"ad_linked_ability"			"mars_spear"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -42241,7 +42241,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 				"ad_linked_ability"			"snapfire_mortimer_kisses"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -42307,7 +42307,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"20" // Lizard Blobs Movement Slow
+				"value"				"2000" // Lizard Blobs Movement Slow
 				"ad_linked_ability"			"snapfire_mortimer_kisses"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -42329,7 +42329,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"200" // Cookie Restores Health
+				"value"				"20000" // Cookie Restores Health
 				"ad_linked_ability"			"snapfire_firesnap_cookie"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -42373,7 +42373,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 				"ad_linked_ability"			"snapfire_scatterblast"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -42395,7 +42395,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"snapfire_lil_shredder"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43524,7 +43524,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"150"
+				"value"					"15000"
 				"ad_linked_ability"				"dawnbreaker_solar_guardian"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43607,7 +43607,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"1100"
+				"value"					"110000"
 				"ad_linked_ability"				"dawnbreaker_celestial_hammer"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43648,7 +43648,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"2"
+				"value"					"200"
 				"ad_linked_ability"				"dawnbreaker_fire_wreath"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43668,7 +43668,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"40"
+				"value"					"4000"
 				"ad_linked_ability"				"dawnbreaker_luminosity"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43688,7 +43688,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"20"
+				"value"					"200"
 				"ad_linked_ability"				"dawnbreaker_solar_guardian"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -43708,7 +43708,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"1"
+				"value"					"10"
 			}
 		}
 	}
@@ -43728,7 +43728,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"30"
+				"value"					"3000"
 			}
 		}
 	}
@@ -43748,7 +43748,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"15"
+				"value"					"1500"
 			}
 		}
 	}
@@ -43790,7 +43790,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"regen_rate"			"90"
+				"regen_rate"			"9000"
 			}
 		}
 		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_1"
@@ -43819,7 +43819,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"regen_rate"			"90"
+				"regen_rate"			"9000"
 			}
 			// this is only used for event games
 			"03"
