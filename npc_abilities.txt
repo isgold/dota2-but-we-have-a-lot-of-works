@@ -40901,7 +40901,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"mars_spear"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -40923,7 +40923,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"65"
+				"value"					"6500"
 				"ad_linked_ability"			"mars_gods_rebuke"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -40967,7 +40967,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"value"					"4"
+				"value"					"40"
 				"ad_linked_ability"			"mars_gods_rebuke"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -40989,7 +40989,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"value"				"0.8"
+				"value"				"8"
 				"ad_linked_ability"			"mars_spear"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41011,7 +41011,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_INTEGER"
-				"value"				"180"
+				"value"				"18000"
 				"ad_linked_ability"			"mars_arena_of_blood"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41033,13 +41033,13 @@
 			"01"
 			{
 				"var_type"						"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"mars_bulwark"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 			"02"
 			{
 				"var_type"						"FIELD_INTEGER"
-				"value2"				"5"
+				"value2"				"500"
 				"ad_linked_ability"			"mars_bulwark"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41061,7 +41061,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"mars_bulwark"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41083,7 +41083,7 @@
 			"01"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"mars_gods_rebuke"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
