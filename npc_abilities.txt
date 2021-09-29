@@ -70133,7 +70133,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 				"ad_linked_ability"			"ursa_fury_swipes"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70181,7 +70181,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.2"
+				"value"				"120"
 				"ad_linked_ability"			"ursa_enrage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70205,7 +70205,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"ursa_fury_swipes"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70229,7 +70229,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"500"
+				"value"				"50000"
 				"ad_linked_ability"			"ursa_earthshock"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70277,7 +70277,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"ursa_overpower"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70349,7 +70349,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 				"ad_linked_ability"			"chaos_knight_reality_rift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70373,7 +70373,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"2.5"
 				"ad_linked_ability"			"chaos_knight_chaos_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70397,7 +70397,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"chaos_knight_phantasm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70421,7 +70421,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"chaos_knight_chaos_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70446,7 +70446,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"chaos_knight_chaos_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70494,7 +70494,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"chaos_knight_chaos_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70517,7 +70517,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 				"ad_linked_ability"			"lycan_shapeshift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70541,7 +70541,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"10"
 				"ad_linked_ability"			"lycan_summon_wolves"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70565,7 +70565,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"lycan_feral_impulse"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70589,7 +70589,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"lycan_feral_impulse"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70613,7 +70613,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"32"
+				"value"				"3200"
 				"ad_linked_ability"			"lycan_shapeshift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70637,7 +70637,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"13"
+				"value"				"10000"
 				"ad_linked_ability"			"lycan_summon_wolves"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70661,7 +70661,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"50000"
 				"ad_linked_ability"			"lycan_summon_wolves"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70686,7 +70686,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"150"
 				"ad_linked_ability"			"lycan_shapeshift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70734,7 +70734,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"windrunner_focusfire"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70758,7 +70758,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"windrunner_powershot"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70806,7 +70806,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"20"
 				"ad_linked_ability"			"windrunner_shackleshot"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70830,7 +70830,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.8"
+				"value"				"4"
 				"ad_linked_ability"			"windrunner_shackleshot"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70878,7 +70878,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 				"ad_linked_ability"			"windrunner_focusfire"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70902,7 +70902,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"windrunner_shackleshot"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70950,7 +70950,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"300"
+				"value"				"30000"
 				"ad_linked_ability"			"phantom_lancer_phantom_edge"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -70998,7 +70998,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"phantom_lancer_juxtapose"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71022,7 +71022,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"40"
 				"ad_linked_ability"			"phantom_lancer_doppelwalk"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71046,7 +71046,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"phantom_lancer_spirit_lance"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71070,7 +71070,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"phantom_lancer_juxtapose"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71118,7 +71118,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.8"
+				"value"				"40"
 				"ad_linked_ability"			"slark_pounce"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71142,7 +71142,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"70"
+				"value"				"7000"
 				"ad_linked_ability"			"slark_dark_pact"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71190,7 +71190,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"55"
+				"value"				"550"
 				"ad_linked_ability"			"slark_essence_shift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71214,7 +71214,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"slark_essence_shift"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71238,7 +71238,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"slark_dark_pact"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71262,7 +71262,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"slark_shadow_dance"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71287,7 +71287,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"50"
 				"ad_linked_ability"			"spectre_spectral_dagger"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71311,7 +71311,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 				"ad_linked_ability"			"spectre_desolate"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71335,7 +71335,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 				"ad_linked_ability"			"spectre_spectral_dagger"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71359,7 +71359,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"32"
+				"value"				"3200"
 				"ad_linked_ability"			"spectre_haunt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71383,7 +71383,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"25"
 				"ad_linked_ability"			"spectre_dispersion"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71407,7 +71407,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"spectre_spectral_dagger"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71431,7 +71431,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"spirit_breaker_greater_bash"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71455,7 +71455,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"4"
+				"value"				"40"
 				"ad_linked_ability"			"spirit_breaker_bulldoze"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71479,7 +71479,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"spirit_breaker_greater_bash"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71502,7 +71502,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 				"ad_linked_ability"			"spirit_breaker_charge_of_darkness"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71526,7 +71526,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.4"
+				"value"				"2.0"
 				"ad_linked_ability"			"storm_spirit_electric_vortex"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71598,7 +71598,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"550"
+				"value"				"150"
 				"ad_linked_ability"			"multi_linked_ability"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 				"linked_ad_abilities"				"storm_spirit_ball_lightning storm_spirit_static_remnant"
 			}
@@ -71623,7 +71623,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"storm_spirit_static_remnant"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71671,7 +71671,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"20"
 				"ad_linked_ability"			"storm_spirit_overload"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71695,7 +71695,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.25"
+				"value"				"125"
 				"ad_linked_ability"			"storm_spirit_static_remnant"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71719,7 +71719,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 				"ad_linked_ability"			"tidehunter_gush"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71767,7 +71767,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"-20"
+				"value"				"-2000"
 				"ad_linked_ability"			"tidehunter_anchor_smash"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71791,7 +71791,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 				"ad_linked_ability"			"tidehunter_kraken_shell"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71815,7 +71815,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"tidehunter_gush"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71839,7 +71839,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"100"
+				"value"				"400"
 				"ad_linked_ability"			"tidehunter_kraken_shell"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71863,7 +71863,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1"
+				"value"				"5"
 				"ad_linked_ability"			"tidehunter_ravage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71910,7 +71910,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 				"ad_linked_ability"			"tinker_laser"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71934,7 +71934,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 				"ad_linked_ability"			"tinker_march_of_the_machines"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71958,7 +71958,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.25"
+				"value"				"2"
 				"ad_linked_ability"			"tinker_heat_seeking_missile"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -71982,7 +71982,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"tinker_laser"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72006,7 +72006,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"5"
 				"ad_linked_ability"			"tinker_keen_teleport"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72030,7 +72030,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"10"
 				"ad_linked_ability"			"tinker_heat_seeking_missile"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72054,7 +72054,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"150"
+				"value"				"15000"
 				"ad_linked_ability"			"tinker_defense_matrix"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72081,7 +72081,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 				"ad_linked_ability"			"tiny_avalanche"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72105,7 +72105,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"tiny_toss"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72129,7 +72129,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 				"ad_linked_ability"			"tiny_avalanche"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72225,7 +72225,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"tiny_tree_grab"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72249,7 +72249,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 				"ad_linked_ability"			"troll_warlord_berserkers_rage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72273,7 +72273,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"troll_warlord_berserkers_rage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72297,7 +72297,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"90"
+				"value"				"9000"
 				"ad_linked_ability"			"troll_warlord_whirling_axes"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72345,7 +72345,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"troll_warlord_fervor"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72369,7 +72369,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"troll_warlord_battle_trance"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72394,7 +72394,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"undying_tombstone"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72418,7 +72418,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"15"
 				"ad_linked_ability"			"undying_decay"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72490,7 +72490,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"60"
 				"ad_linked_ability"			"undying_tombstone"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72514,7 +72514,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 				"ad_linked_ability"			"undying_soul_rip"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72538,7 +72538,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"15"
+				"value"				"150"
 				"ad_linked_ability"			"undying_tombstone"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72562,7 +72562,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"55"
+				"value"				"5500"
 				"ad_linked_ability"			"undying_decay"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72610,7 +72610,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 				"ad_linked_ability"			"viper_viper_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72634,7 +72634,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"70"
+				"value"				"7000"
 				"ad_linked_ability"			"viper_nethertoxin"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72682,7 +72682,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"11"
+				"value"				"13"
 				"ad_linked_ability"			"viper_nethertoxin"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72706,7 +72706,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"viper_corrosive_skin"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72730,7 +72730,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.2"
+				"value"				"12"
 				"ad_linked_ability"			"zuus_static_field"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72754,7 +72754,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"zuus_arc_lightning"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72778,7 +72778,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.4"
+				"value"				"2"
 				"ad_linked_ability"			"zuus_lightning_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72802,7 +72802,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"zuus_thundergods_wrath"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72826,7 +72826,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"325"
+				"value"				"3250"
 				"ad_linked_ability"			"zuus_lightning_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72850,7 +72850,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"elder_titan_ancestral_spirit"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72874,7 +72874,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"elder_titan_echo_stomp"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72898,7 +72898,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"600"
 				"ad_linked_ability"			"elder_titan_earth_splitter"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72922,7 +72922,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"450"
+				"value"				"45000"
 				"ad_linked_ability"			"elder_titan_echo_stomp"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72946,7 +72946,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"280"
+				"value"				"28000"
 				"ad_linked_ability"			"ember_spirit_flame_guard"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72970,7 +72970,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"ember_spirit_searing_chains"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -72994,7 +72994,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"ember_spirit_flame_guard"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73018,7 +73018,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"ember_spirit_sleight_of_fist"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73042,7 +73042,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"120"
 				"ad_linked_ability"			"ember_spirit_fire_remnant"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73066,7 +73066,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"65"
+				"value"				"6500"
 				"ad_linked_ability"			"ember_spirit_sleight_of_fist"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73090,7 +73090,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"ember_spirit_searing_chains"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73113,7 +73113,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"life_stealer_rage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73137,7 +73137,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"life_stealer_rage"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73161,7 +73161,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.2"
+				"value"				"120"
 				"ad_linked_ability"			"life_stealer_feast"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73233,7 +73233,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"life_stealer_ghoul_frenzy"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73281,7 +73281,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20"
 			}
 		}
 	}
@@ -73304,7 +73304,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25"
 			}
 		}
 	}
@@ -73327,7 +73327,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"300"
+				"value"				"30"
 			}
 		}
 	}
@@ -73380,7 +73380,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"800"
+				"value"				"80000"
 				"ad_linked_ability"			"lion_impale"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73428,7 +73428,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"2000"
 				"ad_linked_ability"			"lion_voodoo"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73500,7 +73500,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"lion_impale"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73524,7 +73524,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"lion_finger_of_death"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73596,7 +73596,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"70"
+				"value"				"7000"
 				"ad_linked_ability"			"lion_finger_of_death"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73620,7 +73620,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"80"
 				"ad_linked_ability"			"skywrath_mage_ancient_seal"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73668,7 +73668,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"-12"
+				"value"				"-1200"
 				"ad_linked_ability"			"skywrath_mage_ancient_seal"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73716,7 +73716,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"450"
+				"value"				"45000"
 				"ad_linked_ability"			"skywrath_mage_mystic_flare"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73788,7 +73788,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"4"
 				"ad_linked_ability"			"medusa_stone_gaze"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73836,7 +73836,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 				"ad_linked_ability"			"medusa_mystic_snake"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73884,7 +73884,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"medusa_mystic_snake"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73908,7 +73908,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"ogre_magi_bloodlust"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73932,7 +73932,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"240"
+				"value"				"24000"
 				"ad_linked_ability"			"ogre_magi_fireblast"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -73980,7 +73980,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 				"ad_linked_ability"			"ogre_magi_ignite"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74004,7 +74004,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"ogre_magi_fireblast"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74028,7 +74028,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"silencer_curse_of_the_silent"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74076,7 +74076,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"silencer_glaives_of_wisdom"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74100,7 +74100,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.2"
+				"value"				"120"
 				"ad_linked_ability"			"silencer_last_word"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74148,7 +74148,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 				"ad_linked_ability"			"silencer_curse_of_the_silent"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74196,7 +74196,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"30"
 				"ad_linked_ability"			"death_prophet_exorcism"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74220,7 +74220,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"death_prophet_carrion_swarm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74244,7 +74244,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"death_prophet_spirit_siphon"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74268,7 +74268,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"-20"
+				"value"				"-2000"
 				"ad_linked_ability"			"death_prophet_spirit_siphon"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74292,7 +74292,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"20.0"
+				"value"				"2000.0"
 				"ad_linked_ability"			"death_prophet_spirit_siphon"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74316,7 +74316,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"phantom_assassin_stifling_dagger"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74340,7 +74340,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 				"ad_linked_ability"			"phantom_assassin_coup_de_grace"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74364,7 +74364,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 				"ad_linked_ability"			"phantom_assassin_blur"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74388,7 +74388,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"phantom_assassin_phantom_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74436,7 +74436,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 				"ad_linked_ability"			"phantom_assassin_phantom_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74460,7 +74460,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"						"2"
+				"value"						"20"
 				"ad_linked_ability"			"phantom_assassin_stifling_dagger"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74532,7 +74532,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"50"
 				"ad_linked_ability"			"riki_backstab"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74556,7 +74556,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"40"
 				"ad_linked_ability"			"riki_smoke_screen"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74652,7 +74652,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"40"
 				"ad_linked_ability"			"riki_tricks_of_the_trade"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74676,7 +74676,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"1750"
 				"ad_linked_ability"			"riki_smoke_screen"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74700,7 +74700,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 				"ad_linked_ability"			"riki_backstab"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -74724,7 +74724,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"4"
+				"value"				"40"
 				"ad_linked_ability"			"riki_blink_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
