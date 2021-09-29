@@ -41466,7 +41466,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"value"					"-4.0" // (Astral Step Charge Restore Time)
+				"value"					"-40.0" // (Astral Step Charge Restore Time)
 				"ad_linked_ability"			"void_spirit_astral_step"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41490,7 +41490,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"50"
+				"value"					"5000"
 				"ad_linked_ability"			"void_spirit_aether_remnant"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41514,7 +41514,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"value"					"2.0"
+				"value"					"4.0"
 				"ad_linked_ability"		"void_spirit_dissimilate"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41538,7 +41538,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"80"
+				"value"					"8000"
 				"ad_linked_ability"		"void_spirit_resonant_pulse"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41610,7 +41610,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"475"
+				"value"					"47500"
 				"ad_linked_ability"		"void_spirit_aether_remnant"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -41634,7 +41634,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"value"					"160" // (Astral Step Crit)
+				"value"					"16000" // (Astral Step Crit)
 				"ad_linked_ability"		"void_spirit_astral_step"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
