@@ -6990,8 +6990,8 @@
 		"ItemStockTime"					"1"			  
 		"ItemStockInitial"				"0"
 		"ItemStockMax"					"1"
-		"ItemInitialStockTime"			"1290.0"
-		"ItemInitialStockTimeTurbo"		"645.0"
+		"ItemInitialStockTime"			"300.0"
+		"ItemInitialStockTimeTurbo"		"300.0"
 	}
 	
 	//=================================================================================================================
@@ -7225,7 +7225,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health"			"25000"
+				"bonus_health"			"2500"
 			}
 			"03"
 			{
@@ -7536,17 +7536,17 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_health"			"42500"
+				"bonus_health"			"4250"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_mana"			"42500"
+				"bonus_mana"			"4250"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_intellect"			"1600"
+				"bonus_intellect"			"160"
 			}	
 			"04"
 			{
@@ -7556,7 +7556,7 @@
 			"05"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"spell_amp"			"800"
+				"spell_amp"			"80"
 			}	
 			
 			"07"
@@ -8836,7 +8836,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_spell_resist"	"70"
+				"bonus_spell_resist"	"75"
 			}
 			"02"
 			{
@@ -8846,7 +8846,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"barrier_block"			"20000"
+				"barrier_block"			"40000"
 			}
 			"04"
 			{
@@ -8856,12 +8856,12 @@
 			"05"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"hero_lifesteal"		"20"
+				"hero_lifesteal"		"200"
 			}			
 			"06"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"creep_lifesteal"		"20"
+				"creep_lifesteal"		"40"
 			}	
 		}
 	}
@@ -8941,7 +8941,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"675"	
+		"ItemCost"						"10000"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -8980,22 +8980,22 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"40"
+				"bonus_damage"			"400"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_attack_speed"	"45"
+				"bonus_attack_speed"	"450"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_chance"			"80"
+				"bonus_chance"			"100"
 			}
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_chance_damage"			"70"
+				"bonus_chance_damage"			"700"
 			}
 		}
 	}
@@ -12513,8 +12513,8 @@
 		"ItemDisplayCharges"			"1"
 		"ItemStockMax"					"3"
 		"ItemStockInitial"				"0"
-		"ItemStockTime"					"600.0"			  
-		"ItemInitialStockTime"			"690.0"  
+		"ItemStockTime"					"120.0"			  
+		"ItemInitialStockTime"			"60.0"  
 		"BonusDelayedStockCount"		"0"
 		"ItemDeclarations"				"DECLARE_PURCHASES_TO_TEAMMATES | DECLARE_PURCHASES_TO_SPECTATORS"
 		"ItemSupport"					"1"	
@@ -12528,12 +12528,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"xp_bonus"				"700"
+				"xp_bonus"				"1000"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"xp_per_use"			"135"
+				"xp_per_use"			"500"
 			}
 		}
 	}
