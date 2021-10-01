@@ -50559,7 +50559,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"17500"
 			}
 		}
 	}
@@ -50582,7 +50582,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 			}
 		}
 	}
@@ -50605,7 +50605,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"225"
+				"value"				"22500"
 			}
 		}
 	}
@@ -50628,7 +50628,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 			}
 		}
 	}
@@ -50651,7 +50651,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"275"
+				"value"				"27500"
 			}
 		}
 	}
@@ -50674,7 +50674,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"300"
+				"value"				"30000"
 			}
 		}
 	}
@@ -50697,7 +50697,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"325"
+				"value"				"32500"
 			}
 		}
 	}
@@ -50720,7 +50720,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"350"
+				"value"				"35000"
 			}
 		}
 	}
@@ -50743,7 +50743,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"375"
+				"value"				"37500"
 			}
 		}
 	}
@@ -50766,7 +50766,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"400"
+				"value"				"40000"
 			}
 		}
 	}
@@ -50789,7 +50789,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"450"
+				"value"				"45000"
 			}
 		}
 	}
@@ -50812,7 +50812,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"475"
+				"value"				"47500"
 			}
 		}
 	}
@@ -50835,7 +50835,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"500"
+				"value"				"50000"
 			}
 		}
 	}
@@ -50858,7 +50858,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"600"
+				"value"				"60000"
 			}
 		}
 	}
@@ -50881,7 +50881,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"650"
+				"value"				"65000"
 			}
 		}
 	}
@@ -50904,7 +50904,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"700"
+				"value"				"70000"
 			}
 		}
 	}
@@ -50927,7 +50927,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"800"
+				"value"				"80000"
 			}
 		}
 	}
@@ -50950,7 +50950,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"900"
+				"value"				"90000"
 			}
 		}
 	}
@@ -50973,7 +50973,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1000"
+				"value"				"100000"
 			}
 		}
 	}
@@ -50996,7 +50996,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 			}
 		}
 	}
@@ -51019,7 +51019,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"125"
+				"value"				"12500"
 			}
 		}
 	}
@@ -51042,7 +51042,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"150"
+				"value"				"15000"
 			}
 		}
 	}
@@ -51065,7 +51065,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"17500"
 			}
 		}
 	}
@@ -51088,7 +51088,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 			}
 		}
 	}
@@ -51112,7 +51112,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"225"
+				"value"				"22500"
 			}
 		}
 	}
@@ -51135,7 +51135,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 			}
 		}
 	}
@@ -51159,7 +51159,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"275"
+				"value"				"27500"
 			}
 		}
 	}
@@ -51182,7 +51182,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"300"
+				"value"				"30000"
 			}
 		}
 	}
@@ -51205,7 +51205,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"350"
+				"value"				"35000"
 			}
 		}
 	}
@@ -51228,7 +51228,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"400"
+				"value"				"40000"
 			}
 		}
 	}
@@ -51251,7 +51251,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"500"
+				"value"				"50000"
 			}
 		}
 	}
@@ -51274,7 +51274,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"600"
+				"value"				"60000"
 			}
 		}
 	}
@@ -51297,7 +51297,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"700"
+				"value"				"70000"
 			}
 		}
 	}
@@ -51320,7 +51320,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"800"
+				"value"				"80000"
 			}
 		}
 	}
@@ -51343,7 +51343,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1000"
+				"value"				"100000"
 			}
 		}
 	}
@@ -51389,7 +51389,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -51412,7 +51412,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -51435,7 +51435,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -51458,7 +51458,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -51481,7 +51481,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -51504,7 +51504,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -51527,7 +51527,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -51550,7 +51550,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"45"
+				"value"				"4500"
 			}
 		}
 	}
@@ -51573,7 +51573,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 			}
 		}
 	}
@@ -51596,7 +51596,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"55"
+				"value"				"5500"
 			}
 		}
 	}
@@ -51619,7 +51619,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 			}
 		}
 	}
@@ -51642,7 +51642,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"70"
+				"value"				"7000"
 			}
 		}
 	}
@@ -51665,7 +51665,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 			}
 		}
 	}
@@ -51688,7 +51688,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 			}
 		}
 	}
@@ -51711,7 +51711,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"110"
+				"value"				"11000"
 			}
 		}
 	}
@@ -51734,7 +51734,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"120"
+				"value"				"12000"
 			}
 		}
 	}
@@ -51757,7 +51757,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"140"
+				"value"				"14000"
 			}
 		}
 	}
@@ -51780,7 +51780,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"160"
+				"value"				"16000"
 			}
 		}
 	}
@@ -51803,7 +51803,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"17500"
 			}
 		}
 	}
@@ -51826,7 +51826,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 			}
 		}
 	}
@@ -51849,7 +51849,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 			}
 		}
 	}
@@ -51897,7 +51897,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 			}
 		}
 	}
@@ -51967,7 +51967,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -51990,7 +51990,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -52013,7 +52013,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -52036,7 +52036,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -52059,7 +52059,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -52082,7 +52082,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -52105,7 +52105,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 			}
 		}
 	}
@@ -52128,7 +52128,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 			}
 		}
 	}
@@ -52151,7 +52151,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"130"
+				"value"				"13000"
 			}
 		}
 	}
@@ -52174,7 +52174,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"140"
+				"value"				"14000"
 			}
 		}
 	}
@@ -52197,7 +52197,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"150"
+				"value"				"15000"
 			}
 		}
 	}
@@ -52220,7 +52220,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"17500"
 			}
 		}
 	}
@@ -52312,7 +52312,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"block_cooldown"				"18"
+				"block_cooldown"				"5"
 			}
 		}
 	}
@@ -52396,7 +52396,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 			"02"
 			{
@@ -52411,7 +52411,7 @@
 			"04"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"damage_per_burn"				"0.8"
+				"damage_per_burn"				"80"
 			}
 		}
 	}
@@ -52571,7 +52571,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 			}
 		}
 	}
@@ -52594,7 +52594,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -52617,7 +52617,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -52640,7 +52640,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -52663,7 +52663,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -52686,7 +52686,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -52709,7 +52709,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -52732,7 +52732,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -52755,7 +52755,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -52778,7 +52778,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -52801,7 +52801,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -52824,7 +52824,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -52847,7 +52847,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -52870,7 +52870,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -52893,7 +52893,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -52916,7 +52916,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 			}
 		}
 	}
@@ -52939,7 +52939,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 			}
 		}
 	}
@@ -52962,7 +52962,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -52985,7 +52985,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"9"
+				"value"				"900"
 			}
 		}
 	}
@@ -53008,7 +53008,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"11"
+				"value"				"1100"
 			}
 		}
 	}
@@ -53031,7 +53031,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -53054,7 +53054,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 			}
 		}
 	}
@@ -53077,7 +53077,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.25"
+				"value"				"125"
 			}
 		}
 	}
@@ -53101,7 +53101,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 			}
 		}
 	}
@@ -53124,7 +53124,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.75"
+				"value"				"175"
 			}
 		}
 	}
@@ -53147,7 +53147,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 			}
 		}
 	}
@@ -53170,7 +53170,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2.5"
+				"value"				"250"
 			}
 		}
 	}
@@ -53193,7 +53193,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 			}
 		}
 	}
@@ -53216,7 +53216,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -53239,7 +53239,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 			}
 		}
 	}
@@ -53262,7 +53262,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -53285,7 +53285,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -53308,7 +53308,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -53331,7 +53331,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -53354,7 +53354,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -53377,7 +53377,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -53400,7 +53400,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -53423,7 +53423,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -53446,7 +53446,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -53469,7 +53469,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -53492,7 +53492,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -53515,7 +53515,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -53538,7 +53538,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -53561,7 +53561,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -53584,7 +53584,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -53607,7 +53607,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"45"
+				"value"				"4500"
 			}
 		}
 	}
@@ -53630,7 +53630,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 			}
 		}
 	}
@@ -53653,7 +53653,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 			}
 		}
 	}
@@ -53676,7 +53676,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"65"
+				"value"				"6500"
 			}
 		}
 	}
@@ -53699,7 +53699,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 			}
 		}
 	}
@@ -53722,7 +53722,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"90"
+				"value"				"9000"
 			}
 		}
 	}
@@ -53745,7 +53745,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 			}
 		}
 	}
@@ -53795,7 +53795,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -53820,7 +53820,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -53845,7 +53845,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -53970,7 +53970,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -54045,7 +54045,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 			}
 		}
 	}
@@ -54070,7 +54070,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -54095,7 +54095,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -54120,7 +54120,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -54145,7 +54145,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -54170,7 +54170,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -54195,7 +54195,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -54220,7 +54220,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -54245,7 +54245,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -54270,7 +54270,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -54293,7 +54293,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -54316,7 +54316,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -54339,7 +54339,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -54362,7 +54362,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -54385,7 +54385,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -54408,7 +54408,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -54431,7 +54431,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"13"
+				"value"				"1300"
 			}
 		}
 	}
@@ -54454,7 +54454,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -54477,7 +54477,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -54500,7 +54500,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -54523,7 +54523,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -54546,7 +54546,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -54569,7 +54569,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -54592,7 +54592,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -54615,7 +54615,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 			}
 		}
 	}
@@ -54638,7 +54638,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -54661,7 +54661,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -54684,7 +54684,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -54707,7 +54707,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -54730,7 +54730,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"13"
+				"value"				"1300"
 			}
 		}
 	}
@@ -54753,7 +54753,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -54776,7 +54776,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -54799,7 +54799,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -54822,7 +54822,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -54960,7 +54960,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 			}
 		}
 	}
@@ -54983,7 +54983,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -55006,7 +55006,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -55029,7 +55029,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -55052,7 +55052,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -55075,7 +55075,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"9"
+				"value"				"900"
 			}
 		}
 	}
@@ -55098,7 +55098,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -55121,7 +55121,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"11"
+				"value"				"1100"
 			}
 		}
 	}
@@ -55144,7 +55144,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -55166,7 +55166,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"13"
+				"value"				"1300"
 			}
 		}
 	}
@@ -55188,7 +55188,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -55211,7 +55211,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -55234,7 +55234,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -55257,7 +55257,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"18"
+				"value"				"1800"
 			}
 		}
 	}
@@ -55280,7 +55280,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -55303,7 +55303,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -55349,7 +55349,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -55418,7 +55418,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -55441,7 +55441,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -55464,7 +55464,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"9"
+				"value"				"900"
 			}
 		}
 	}
@@ -55487,7 +55487,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -55579,7 +55579,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -55717,7 +55717,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 			}
 		}
 	}
@@ -55740,7 +55740,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 			}
 		}
 	}
@@ -55763,7 +55763,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 			}
 		}
 	}
@@ -55786,7 +55786,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 			}
 		}
 	}
@@ -55809,7 +55809,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 			}
 		}
 	}
@@ -55832,7 +55832,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -55855,7 +55855,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -55878,7 +55878,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7"
+				"value"				"700"
 			}
 		}
 	}
@@ -55901,7 +55901,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -56154,7 +56154,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"25"
 			}
 		}
 	}
@@ -56177,7 +56177,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"30"
 			}
 		}
 	}
@@ -56200,7 +56200,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"40"
 			}
 		}
 	}
@@ -56223,7 +56223,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"50"
 			}
 		}
 	}
@@ -56246,7 +56246,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"60"
 			}
 		}
 	}
@@ -56269,7 +56269,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"75"
 			}
 		}
 	}
@@ -56292,7 +56292,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"100"
 			}
 		}
 	}
@@ -56315,7 +56315,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"125"
 			}
 		}
 	}
@@ -56338,7 +56338,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"150"
 			}
 		}
 	}
@@ -56361,7 +56361,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"175"
 			}
 		}
 	}
@@ -56384,7 +56384,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"200"
 			}
 		}
 	}
@@ -56407,7 +56407,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"250"
 			}
 		}
 	}
@@ -56430,7 +56430,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"400"
 			}
 		}
 	}
@@ -56453,7 +56453,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"500"
 			}
 		}
 	}
@@ -56476,7 +56476,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"400"
+				"value"				"2000"
 			}
 		}
 	}
@@ -56499,7 +56499,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"400"
+				"value"				"2000"
 			}
 		}
 	}
@@ -56522,7 +56522,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"500"
+				"value"				"2500"
 			}
 		}
 	}
@@ -56545,7 +56545,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"600"
+				"value"				"3000"
 			}
 		}
 	}
@@ -56568,7 +56568,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"800"
+				"value"				"4000"
 			}
 		}
 	}
@@ -56591,7 +56591,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1000"
+				"value"				"5000"
 			}
 		}
 	}
@@ -56614,7 +56614,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"1000"
 			}
 		}
 	}
@@ -56637,7 +56637,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -56660,7 +56660,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -56683,7 +56683,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -56706,7 +56706,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -56729,7 +56729,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"18"
+				"value"				"1800"
 			}
 		}
 	}
@@ -56752,7 +56752,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -56775,7 +56775,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 			}
 		}
 	}
@@ -56798,7 +56798,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -56821,7 +56821,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"35"
+				"value"				"3500"
 			}
 		}
 	}
@@ -56844,7 +56844,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 			}
 		}
 	}
@@ -56867,7 +56867,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"45"
+				"value"				"4500"
 			}
 		}
 	}
@@ -56890,7 +56890,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 			}
 		}
 	}
@@ -56913,7 +56913,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"55"
+				"value"				"5500"
 			}
 		}
 	}
@@ -56936,7 +56936,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 			}
 		}
 	}
@@ -56959,7 +56959,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"65"
+				"value"				"6500"
 			}
 		}
 	}
@@ -56982,7 +56982,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"70"
+				"value"				"7000"
 			}
 		}
 	}
@@ -57005,7 +57005,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 			}
 		}
 	}
@@ -57028,7 +57028,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 			}
 		}
 	}
@@ -57051,7 +57051,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"90"
+				"value"				"9000"
 			}
 		}
 	}
@@ -57235,7 +57235,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"252"
+				"value"				"25200"
 			}
 		}
 	}
@@ -57304,7 +57304,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -57350,7 +57350,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 			}
 		}
 	}
@@ -57419,7 +57419,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 			}
 		}
 	}
@@ -57534,7 +57534,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"1000"
 			}
 		}
 	}
@@ -57557,7 +57557,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"125"
+				"value"				"1250"
 			}
 		}
 	}
@@ -57718,7 +57718,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"325"
+				"value"				"3250"
 			}
 		}
 	}
@@ -58155,7 +58155,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 			}
 		}
 	}
@@ -58178,7 +58178,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 			}
 		}
 	}
@@ -58224,7 +58224,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 			}
 		}
 	}
@@ -58270,7 +58270,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 			}
 		}
 	}
@@ -58293,7 +58293,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"11"
+				"value"				"1100"
 			}
 		}
 	}
@@ -58316,7 +58316,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 			}
 		}
 	}
@@ -58362,7 +58362,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -58409,7 +58409,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"18"
+				"value"				"1800"
 			}
 		}
 	}
@@ -59260,7 +59260,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 			}
 		}
 	}
@@ -59283,7 +59283,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -59306,7 +59306,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 			}
 		}
 	}
@@ -59449,7 +59449,7 @@
 			"02"
 			{
 				"var_type"			"FIELD_FLOAT"
-				"value2"				"20"
+				"value2"				"100"
 			}
 		}
 	}
@@ -59472,7 +59472,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_FLOAT"
-				"crit_chance"				"24"
+				"crit_chance"				"100"
 			}
 			"02"
 			{
@@ -59815,7 +59815,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"-0.25"
+				"value"				"-0.025"
 				"ad_linked_ability"			"rattletrap_battery_assault"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -59840,7 +59840,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"rattletrap_rocket_flare"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -59865,7 +59865,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"24"
+				"value"				"2400"
 				"ad_linked_ability"			"rattletrap_battery_assault"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -59915,7 +59915,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"rattletrap_power_cogs"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -59964,7 +59964,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"rattletrap_rocket_flare"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -59989,7 +59989,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 				"ad_linked_ability"			"rattletrap_power_cogs"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60013,7 +60013,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"160"
+				"value"				"16000"
 				"ad_linked_ability"			"omniknight_purification"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60037,7 +60037,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"omniknight_degen_aura"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60061,7 +60061,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"omniknight_repel"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60109,7 +60109,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"omniknight_repel"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60133,7 +60133,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"omniknight_purification"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60157,7 +60157,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"60"
+				"value"				"6000"
 				"ad_linked_ability"			"omniknight_guardian_angel"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60205,7 +60205,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1"
+				"value"				"5"
 				"ad_linked_ability"			"centaur_hoof_stomp"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60229,7 +60229,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"centaur_return"						// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60253,7 +60253,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"centaur_double_edge"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60277,7 +60277,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"centaur_stampede"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60349,7 +60349,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"500"
 				"ad_linked_ability"			"witch_doctor_death_ward"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60373,7 +60373,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"witch_doctor_voodoo_restoration"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60397,7 +60397,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"witch_doctor_paralyzing_cask"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60451,7 +60451,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"60"
+				"value"				"6000"
 				"ad_linked_ability"			"witch_doctor_death_ward"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60475,7 +60475,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 				"ad_linked_ability"			"witch_doctor_maledict"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60499,7 +60499,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"witch_doctor_maledict"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60523,7 +60523,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2.5"
+				"value"				"250"
 				"ad_linked_ability"			"necrolyte_death_pulse"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60547,7 +60547,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"50"
 				"ad_linked_ability"			"necrolyte_heartstopper_aura"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60571,7 +60571,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"24"
+				"value"				"2400"
 				"ad_linked_ability"			"necrolyte_sadist"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60595,7 +60595,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"32"
+				"value"				"3200"
 				"ad_linked_ability"			"necrolyte_death_pulse"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60619,7 +60619,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"32"
+				"value"				"3200"
 				"ad_linked_ability"			"necrolyte_heartstopper_aura"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60643,7 +60643,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"necrolyte_reapers_scythe"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60668,7 +60668,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.0"
+				"value"				"100"
 				"ad_linked_ability"			"antimage_blink"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60692,7 +60692,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"antimage_mana_void"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60716,7 +60716,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"250"
+				"value"				"25000"
 				"ad_linked_ability"			"antimage_blink"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60740,7 +60740,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"antimage_counterspell"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60770,7 +60770,7 @@
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"incoming_damage"			"250"
+				"incoming_damage"			"25000"
 				"ad_linked_ability"			"antimage_blink"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 			"03"
@@ -60800,7 +60800,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.1"
+				"value"				"10"
 				"ad_linked_ability"			"antimage_mana_void"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60824,7 +60824,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.6"
+				"value"				"60"
 				"ad_linked_ability"			"antimage_mana_break"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60848,7 +60848,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.7"
+				"value"				"3.5"
 				"ad_linked_ability"			"antimage_mana_void"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60872,7 +60872,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 				"ad_linked_ability"			"mirana_leap"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60896,7 +60896,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"5"
 				"ad_linked_ability"			"mirana_arrow"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60920,7 +60920,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"mirana_arrow"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60944,7 +60944,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"mirana_invis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -60968,7 +60968,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"20"
+				"value"				"100"
 				"ad_linked_ability"			"mirana_invis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61016,7 +61016,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"200"
+				"value"				"20000"
 				"ad_linked_ability"			"mirana_starfall"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61039,7 +61039,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"bounty_hunter_jinada"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61063,7 +61063,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"bounty_hunter_shuriken_toss"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61087,7 +61087,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 				"ad_linked_ability"			"bounty_hunter_track"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61111,7 +61111,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"bounty_hunter_jinada"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61135,7 +61135,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"bounty_hunter_wind_walk"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61185,7 +61185,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"bounty_hunter_shuriken_toss"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61234,7 +61234,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"525"
+				"value"				"52500"
 				"ad_linked_ability"			"queenofpain_shadow_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61258,7 +61258,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"120"
+				"value"				"12000"
 				"ad_linked_ability"			"queenofpain_scream_of_pain"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61306,7 +61306,7 @@
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"queenofpain_shadow_strike"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61354,7 +61354,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"2"
+				"value"				"200"
 				"ad_linked_ability"			"queenofpain_blink"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61378,7 +61378,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.65"
+				"value"				"3.25"
 				"ad_linked_ability"			"abyssal_underlord_pit_of_malice"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61426,7 +61426,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"abyssal_underlord_atrophy_aura"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61450,7 +61450,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"abyssal_underlord_firestorm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61474,7 +61474,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"4"
+				"value"				"400"
 				"ad_linked_ability"			"abyssal_underlord_firestorm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61498,7 +61498,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 				"ad_linked_ability"			"abyssal_underlord_pit_of_malice"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61546,7 +61546,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"500"
 				"ad_linked_ability"			"abyssal_underlord_firestorm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61570,7 +61570,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"abyssal_underlord_atrophy_aura"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61594,7 +61594,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"pudge_flesh_heap"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61642,7 +61642,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.8"
+				"value"				"180"
 				"ad_linked_ability"			"pudge_dismember"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61666,7 +61666,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"-14"
+				"value"				"-1400"
 				"ad_linked_ability"			"pudge_rot"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61690,7 +61690,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 				"ad_linked_ability"			"pudge_meat_hook"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61714,7 +61714,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.8"
+				"value"				"4"
 				"ad_linked_ability"			"pudge_dismember"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 			"02"
@@ -61744,7 +61744,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"120"
+				"value"				"12000"
 				"ad_linked_ability"			"pudge_meat_hook"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61792,7 +61792,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"treant_leech_seed"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61816,7 +61816,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"15"
+				"value"				"1500"
 				"ad_linked_ability"			"treant_leech_seed"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61912,7 +61912,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"450"
+				"value"				"45000"
 				"ad_linked_ability"			"treant_living_armor"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61936,7 +61936,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"36"
+				"value"				"3600"
 				"ad_linked_ability"			"treant_living_armor"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -61960,7 +61960,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 				"ad_linked_ability"			"treant_natures_grasp"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62008,7 +62008,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"treant_overgrowth"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62032,7 +62032,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"treant_natures_grasp"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62056,7 +62056,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"8"
+				"value"				"800"
 				"ad_linked_ability"			"treant_living_armor"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62080,7 +62080,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"razor_static_link"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62104,7 +62104,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"-0.1"
+				"value"				"-0.001"
 				"ad_linked_ability"			"razor_eye_of_the_storm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62128,7 +62128,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"6"
+				"value"				"600"
 				"ad_linked_ability"			"razor_static_link"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62152,7 +62152,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 				"ad_linked_ability"			"razor_plasma_field"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62200,7 +62200,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"100"
 				"ad_linked_ability"			"razor_eye_of_the_storm"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62248,7 +62248,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"visage_summon_familiars"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62272,7 +62272,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"2"
+				"value"				"10"
 				"ad_linked_ability"			"visage_soul_assumption"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62296,7 +62296,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"visage_soul_assumption"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62320,7 +62320,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"5"
+				"value"				"500"
 				"ad_linked_ability"			"visage_gravekeepers_cloak"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62344,7 +62344,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1"
+				"value"				"5"
 				"ad_linked_ability"			"visage_summon_familiars"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62392,7 +62392,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"visage_grave_chill"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62416,7 +62416,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.5"
+				"value"				"150"
 				"ad_linked_ability"			"earthshaker_enchant_totem"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62440,7 +62440,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"earthshaker_echo_slam"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62464,7 +62464,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"320"
+				"value"				"32000"
 				"ad_linked_ability"			"earthshaker_fissure"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62488,7 +62488,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"80"
+				"value"				"8000"
 				"ad_linked_ability"			"earthshaker_fissure"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62512,7 +62512,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"200"
+				"value"				"20000"
 				"ad_linked_ability"			"earthshaker_aftershock"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62536,7 +62536,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"earthshaker_aftershock"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62560,7 +62560,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"lich_frost_shield"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62584,7 +62584,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"2.5"
 				"ad_linked_ability"			"lich_sinister_gaze"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 			
@@ -62609,7 +62609,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"3"
+				"value"				"300"
 				"ad_linked_ability"			"lich_frost_nova"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62633,7 +62633,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"4"
+				"value"				"400"
 				"ad_linked_ability"			"lich_frost_shield"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62681,7 +62681,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"125"
+				"value"				"12500"
 				"ad_linked_ability"			"lich_frost_nova"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62705,7 +62705,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"lich_chain_frost"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62729,7 +62729,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"lich_frost_shield"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62753,7 +62753,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"240"
+				"value"				"24000"
 				"ad_linked_ability"			"rubick_telekinesis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62777,7 +62777,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"10"
+				"value"				"1000"
 				"ad_linked_ability"			"rubick_fade_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62801,7 +62801,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"4"
+				"value"				"400"
 				"ad_linked_ability"			"rubick_fade_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62825,7 +62825,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"12"
+				"value"				"1200"
 				"ad_linked_ability"			"rubick_telekinesis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62849,7 +62849,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"rubick_spell_steal"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62873,7 +62873,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"25"
+				"value"				"2500"
 				"ad_linked_ability"			"rubick_spell_steal"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62897,7 +62897,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.6"
+				"value"				"3"
 				"ad_linked_ability"			"rubick_telekinesis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62921,7 +62921,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"175"
+				"value"				"17500"
 				"ad_linked_ability"			"rubick_telekinesis"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -62969,7 +62969,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"sven_gods_strength"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63017,7 +63017,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"1.25"
+				"value"				"6.25"
 				"ad_linked_ability"			"sven_storm_bolt"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63041,7 +63041,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"						"3"
+				"value"						"300"
 				"ad_linked_ability"			"sven_warcry"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63089,7 +63089,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"						"10"
+				"value"						"1000"
 				"ad_linked_ability"			"sven_warcry"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63113,7 +63113,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"						"25"
+				"value"						"2500"
 				"ad_linked_ability"			"sven_great_cleave"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63137,7 +63137,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"value"				"50"
+				"value"				"5000"
 				"ad_linked_ability"			"dark_seer_ion_shell"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63161,7 +63161,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"100"
+				"value"				"10000"
 				"ad_linked_ability"			"dark_seer_vacuum"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63185,7 +63185,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"350"
+				"value"				"3500"
 				"ad_linked_ability"			"dark_seer_surge"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63233,7 +63233,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"75"
+				"value"				"7500"
 				"ad_linked_ability"			"dark_seer_ion_shell"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63281,7 +63281,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"2000"
 				"ad_linked_ability"			"dark_seer_wall_of_replica"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63425,7 +63425,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"dark_seer_wall_of_replica"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63449,7 +63449,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"-32"
+				"value"				"-3200"
 				"ad_linked_ability"			"dazzle_poison_touch"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63473,7 +63473,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"30"
+				"value"				"3000"
 				"ad_linked_ability"			"dazzle_shadow_wave"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63497,7 +63497,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"40"
+				"value"				"4000"
 				"ad_linked_ability"			"dazzle_poison_touch"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63521,7 +63521,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"value"				"0.5"
+				"value"				"50"
 				"ad_linked_ability"			"dazzle_bad_juju"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -63545,12 +63545,12 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"250"
+				"value"				"25000"
 				"ad_linked_ability"			"dazzle_shallow_grave"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
 	}
-
+	
 	//=================================================================================================================
 	// Ability: Special Bonus
 	//=================================================================================================================
