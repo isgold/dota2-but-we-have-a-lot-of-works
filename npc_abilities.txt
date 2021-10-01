@@ -75789,7 +75789,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"20"
+				"value"				"25"
 				"ad_linked_ability"			"naga_siren_mirror_image"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
@@ -75861,7 +75861,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"1300"
+				"value"				"500"
 				"ad_linked_ability"			"naga_siren_mirror_image"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
