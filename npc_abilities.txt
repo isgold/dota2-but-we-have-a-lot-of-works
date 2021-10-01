@@ -52411,7 +52411,7 @@
 			"04"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"damage_per_burn"				"80"
+				"damage_per_burn"				"0.8"
 			}
 		}
 	}
@@ -58339,7 +58339,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"14"
+				"value"				"1400"
 			}
 		}
 	}
@@ -58385,7 +58385,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"16"
+				"value"				"1600"
 			}
 		}
 	}
@@ -60475,7 +60475,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"value"				"7500"
+				"value"				"1000"
 				"ad_linked_ability"			"witch_doctor_maledict"				// this is the ability this bonus affects.  This line is required for Ability Draft to correctly choose talents.
 			}
 		}
